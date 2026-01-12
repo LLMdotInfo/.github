@@ -4,7 +4,7 @@
 
 # LLM.info
 
-### The AI/LLM Knowledge and Resource Hub
+### The LLM/AI Knowledge and Resource Hub
 
 [![Website](https://img.shields.io/badge/Website-llm.info-blue)](https://llm.info)
 [![LDF](https://img.shields.io/badge/LDF-MIT_License-green)](https://github.com/LLMdotInfo/ldf)
